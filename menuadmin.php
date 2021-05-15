@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Menu Inicial</title>
-    <link rel="stylesheet" href="css/Menu.css">
+    <link rel="stylesheet" href="css/menu.css">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <style>h1{color:#d6c2c2;}</style>
 </head>
@@ -33,9 +33,9 @@
 
             <nav class="hoverop">
                 <ul>
-                    <li> <a href="forms/Departamento/New.php"> Agregar</a></li>
-                    <li><a href="forms/Departamento/Modification.php">Modificar</a></li>
-                    <li><a href="forms/Departamento/Delete.php"> Eliminar</a></li>
+                    <li> <a href="forms/departamento/new.php"> Agregar</a></li>
+                    <li><a href="forms/departamento/modification.php">Modificar</a></li>
+                    <li><a href="forms/departamento/delete.php"> Eliminar</a></li>
                 </ul>
 
             </nav>
@@ -78,9 +78,9 @@
 
             <nav class="hoverop">
                 <ul>
-                    <li> <a href="forms/Usuarios/New.php"> Agregar</a></li>
-                    <li><a href="forms/Usuarios/verificacion.php">Modificar</a></li>
-                    <li><a href="forms/Usuarios/verificacionDelete.php"> Eliminar</a></li>
+                    <li> <a href="forms/usuarios/new.php"> Agregar</a></li>
+                    <li><a href="forms/usuarios/verificacion.php">Modificar</a></li>
+                    <li><a href="forms/usuarios/verificaciondelete.php"> Eliminar</a></li>
                 </ul>
 
             </nav>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Menu Inicial</title>
-    <link rel="stylesheet" href="css/Menu.css">
+    <link rel="stylesheet" href="css/menu.css">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <style>h1{color:#d6c2c2;}</style>
 
