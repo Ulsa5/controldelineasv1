@@ -15,12 +15,12 @@ $pass2 = "empleado1234";
 
 if (($usuario == $administrador) && ($contraseña == $pass1)) {
 
-  header("location:MenuAdmin.php");
+  header("location:menuadmin.php");
 }
 
 if (($usuario == $empleado) && ($contraseña == $pass2)) {
 
-  header("location:MenuEmployes.php");
+  header("location:menuemployes.php");
 } else {
 
   echo "ocurrio un error de carga";
